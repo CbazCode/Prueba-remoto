@@ -6,7 +6,6 @@
 
 body{   
     font-family:  Cascadia Mono PL;
-    background-color: red;
 }
 
 .container{    
@@ -16,14 +15,14 @@ body{
 }
 
 header{
-    background-color: rgb(255, 27, 217);
+    background-color: lavender;
     padding: 30px;
     max-width: 70rem;
     text-align: center;
 }
 
 .body{
-    background-color: rgb(41, 2, 170);
+    background-color: rgb(218, 218, 218);
     padding: 30px;
     max-width: 70rem;
     text-align: center;
@@ -47,7 +46,7 @@ header{
 }
 
 .container-menu{
-    background-color: rgb(124, 241, 250);
+    background-color: rgb(76, 221, 124);
     clip-path: circle(70px at 50% 0);
     height: 100vh;
     text-align: center;
